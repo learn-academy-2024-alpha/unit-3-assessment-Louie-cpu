@@ -1,0 +1,12 @@
+.handStyles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.cardStyles {
+  border: 1px solid black;
+  width: 70px;
+  height: 95px;
+  margin: 10px;
+  padding: 10px;
+}
