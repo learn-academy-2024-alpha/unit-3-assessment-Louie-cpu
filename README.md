@@ -39,23 +39,24 @@ PRs should be posted _before_ class begins on Monday, March 4, 2024.
 
 1. What are three (3) syntax differences between HTML and JSX?
 
--
--
--
+- in HTML you can use the class attribute to define css while in JSX you use it as a key className=""
+-HTML defines itself with attributes while JSX uses curly brackets
+-HTML uses --- to comment out data, JSX uses ///
 
-2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?  yarn is the package manager used to install project project files. if ran in terminal it will modify package.json and yarn.lock 
 
-3. What is the difference between state values and props in React?
+3. What is the difference between state values and props in React? 
+State is mutable and can be constantly changed by the compontent. props are external data and immutable so they can only be passed from parent component to child.
 
-4. STRETCH (optional): What is the difference between a div tag and a span tag?
+4. STRETCH (optional): What is the difference between a div tag and a span tag? div tags are used to group and style block level content and span tags are used for adding style or changing inline content.
 
 ### Looking Ahead: Terms for Next Unit
 
-1. Object-oriented programming:
+1. Object-oriented programming: it is a programming paradigm that was created to deal with the complexity of large software systems. 
 
-2. Ruby:
+2. Ruby: basically its an open source, object oriented programming language that also has a general-purpose, interpreted, dynamically-typed, server-side scripting language.
 
-3. Ruby Hashes:
+3. Ruby Hashes: hashes are data structures that store collections of key value pairs.
 
 ---
 

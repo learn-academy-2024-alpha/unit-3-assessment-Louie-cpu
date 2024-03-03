@@ -5,8 +5,45 @@
 }
 .cardStyles {
   border: 1px solid black;
+  background-color: aliceblue;
   width: 70px;
   height: 95px;
   margin: 10px;
   padding: 10px;
+}
+h1{
+  display: block;
+  text-align: center;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button-container{
+  text-align: center;
+justify-content: center;
+}
+.Button1{
+  margin: 0 70px;
+  width: auto;
+  background-color: aqua;
+  border: black 4px;
+  border-radius: 8px; ;
+  padding: 12px 28px;
+  font-size: 16px;
+  text-align: center;
+
+}
+.Button2{
+  margin: 0 40px;
+  width: auto;
+  background-color: aqua;
+  border: black 3px;
+  border-radius: 8px; ;
+  padding: 12px 28px;
+  font-size: 16px;
+  text-align: center;
+}
+.background{
+  background-image: url("https://img.freepik.com/free-vector/flat-design-poker-table-background_23-2151016809.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708214400&semt=ais");
+  height: 1000px;
 }
